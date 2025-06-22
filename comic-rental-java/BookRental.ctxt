@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BookRental
+comment1.params=comic\ name\ fee\ member\ day\ quantity
+comment1.target=BookRental(Book[],\ java.lang.String,\ double,\ char,\ int,\ int)
+comment10.params=comic
+comment10.target=double\ rentalFee(Book)
+comment11.params=
+comment11.target=double\ calcTotalFee()
+comment2.params=name\ member\ day\ quantity
+comment2.target=BookRental(java.lang.String,\ char,\ int,\ int)
+comment3.params=comic\ name\ fee\ member\ day\ quantity
+comment3.target=void\ setBookRental(Book[],\ java.lang.String,\ double,\ char,\ int,\ int)
+comment4.params=
+comment4.target=Book[]\ getComic()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=double\ getFee()
+comment7.params=
+comment7.target=char\ getMember()
+comment8.params=
+comment8.target=int\ getDay()
+comment9.params=
+comment9.target=int\ getQuantity()
+numComments=12

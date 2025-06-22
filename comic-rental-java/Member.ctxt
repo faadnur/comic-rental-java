@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Member
+comment1.params=c\ n\ f\ m\ d\ q
+comment1.target=Member(Book[],\ java.lang.String,\ double,\ char,\ int,\ int)
+comment2.params=n\ m\ d\ q
+comment2.target=Member(java.lang.String,\ char,\ int,\ int)
+comment3.params=
+comment3.target=double\ calcTotalFee()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
