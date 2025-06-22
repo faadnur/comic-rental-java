@@ -29,5 +29,5 @@ A console-based comic rental system developed using **Java** (BlueJ/console) as 
 
 **Nur Faadhilah Binti Khairul Kholidi**  
 Diploma in Computer Science – UiTM Jasin  
-Semester 2 Final Project
+Semester 2 Group Project
 
